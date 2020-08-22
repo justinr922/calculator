@@ -70,5 +70,10 @@
 }
 
 .top-bar {
+    border-radius: 20px;
+    font-size: 2em;
+    margin: 5%;
+    font-family: 'VT323', monospace;
+    font-size: 3em;
     background-color: rgb(160, 151, 215);
 }
